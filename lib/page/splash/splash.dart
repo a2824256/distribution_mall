@@ -90,7 +90,7 @@ class _SplashViewState extends State<SplashView> {
                     //到时回调
                     eventBus.fire(MyEvent(time.toString()));
                     time--;
-                    if (time < 0) {
+                    if (time <= 0) {
                       //取消定时器，避免无限回调
                       eventBus.destroy();
                       timer.cancel();
