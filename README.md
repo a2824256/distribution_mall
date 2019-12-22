@@ -1,4 +1,4 @@
-### Distribution Mall
+# Distribution Mall
 一个基于flutter_mall进行二次开发的分销商城，整体系统是基于litemall，app基于Google Flutter框架，在原基础上增加/完善了以下功能:
 #### 完善
 + 商品多规格
