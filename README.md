@@ -20,29 +20,33 @@
 + 商品详情页增加商品评论列表
 
 ### 华为P20 Pro实机截图
+
 #### 下单页面
 <img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E4%B8%8B%E5%8D%95%E9%A1%B5%E9%9D%A2.jpg" height="700" width="350"/>
 <br/>
+
 #### 分销页面
 <img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E5%88%86%E9%94%80%E9%A1%B5%E9%9D%A2.jpg" height="700" width="350"/>
 <br/>
-#### 启动页面gif倒数
-<img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E5%90%AF%E5%8A%A8%E9%A1%B5%E9%9D%A2%E5%80%92%E6%95%B0.jpg" height="700" width="350"/>
-<br/>
+
 #### 启动页面gif倒数
 <img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E5%90%AF%E5%8A%A8%E9%A1%B5%E9%9D%A2%E5%80%92%E6%95%B0.jpg" height="700" width="350"/>
 <br/>
 #### 商品详情-多规格
 <img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85-%E5%A4%9A%E8%A7%84%E6%A0%BC.jpg" height="700" width="350"/>
 <br/>
+
 #### 商品详情-多规格-切换规格(小图片也会跟着切换)
 <img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85-%E5%A4%9A%E8%A7%84%E6%A0%BC%E5%88%87%E6%8D%A2%E8%A7%84%E6%A0%BC.jpg" height="700" width="350"/>
 <br/>
+
 #### 商品详情-活动时间
 <img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85-%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4.jpg" height="700" width="350"/>
 <br/>
+
 #### 我的页面
 <img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E6%88%91%E7%9A%84%E9%A1%B5%E9%9D%A2.jpg" height="700" width="350"/>
 <br/>
+
 #### 订单详情
 <img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85.jpg" height="700" width="350"/>
