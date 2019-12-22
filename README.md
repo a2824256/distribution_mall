@@ -21,4 +21,4 @@
 
 ### 华为P20 Pro实机截图
 #### 下单页面
-![下单页面](https://github.com/a2824256/Distribution_Mall/blob/master/%E4%B8%8B%E5%8D%95%E9%A1%B5%E9%9D%A2.jpg)
+<img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E4%B8%8B%E5%8D%95%E9%A1%B5%E9%9D%A2.jpg" />
