@@ -32,6 +32,7 @@
 #### 启动页面gif倒数
 <img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E5%90%AF%E5%8A%A8%E9%A1%B5%E9%9D%A2%E5%80%92%E6%95%B0.jpg" height="700" width="350"/>
 <br/>
+
 #### 商品详情-多规格
 <img src="https://github.com/a2824256/Distribution_Mall/blob/master/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85-%E5%A4%9A%E8%A7%84%E6%A0%BC.jpg" height="700" width="350"/>
 <br/>
