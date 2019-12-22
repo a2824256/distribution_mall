@@ -1,5 +1,5 @@
 ### Distribution Mall
-一个基于flutter_mall进行二次开发的分销商城，在原基础上增加/完善了以下功能:
+一个基于flutter_mall进行二次开发的分销商城，服务端是litemall，在原基础上增加/完善了以下功能:
 #### 完善
 + 商品多规格
 
